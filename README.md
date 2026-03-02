@@ -1,4 +1,4 @@
-# VeraDemo - Blab-a-Gag (Django-Python) STuatr platform pls
+# VeraDemo - Blab-a-Gag (Django-Python) St
 
 ### Notice
 
